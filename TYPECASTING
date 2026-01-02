@@ -7,4 +7,3 @@ float n=(float)no;
 printf("%c\n%d\n%.2f",ch,no,n);
 return 0;
 }
-///
